@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/buttonGreen"
+      android:text="Upload All" />
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/buttonRed"
+      android:text="Update" />
+  <GridView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:columnWidth="100dp"
+    android:horizontalSpacing="5dp"
+    android:verticalSpacing="5dp"
+    android:numColumns="2"
+    android:id="@+id/gridViewImages">
+
+  </GridView>
+</LinearLayout>

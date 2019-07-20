@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Task1</string>
+  <string name="tab_text_1">Contacts</string>
+  <string name="tab_text_2">Gallery</string>
+  <string name="tab_text_3">Recipe</string>
+  <string name="address">Address</string>
+  <string name="phone_number">Phone_number</string>
+  <string name="name">Name</string>
+  <string name="todo">TODO</string>
+  <string name="btitle">Btitle</string>
+  <string name="fragment1">Fragment1</string>
+  <string name="tag">Tag</string>
+  <string name="facebook_app_key">0J0p2v/4tTOtD4RJBHxNfn1USNg=</string>
+</resources>
