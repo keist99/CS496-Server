@@ -1,4 +1,4 @@
-# 안드로이드 생활 어플리케이션
+# 안드로이드 생활 어플리케이션 (with Server)
 
 ![language-java][language-java]
 ![language-javascript][language-javascript]
