@@ -45,6 +45,6 @@
 [language-javascript]: https://img.shields.io/badge/Language-JavaScript-orange
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [platform-android]: https://img.shields.io/badge/Platform-Android-yellowgreen
-[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-ff80a0
+[database-mongodb]: https://img.shields.io/badge/Database-mongoDB-purpleviolet
 [grade-p]: https://img.shields.io/badge/Grade-P-yellow
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
