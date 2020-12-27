@@ -10,7 +10,7 @@
 <br>
 [![institution-kaist][kaist-image]][kaist-cs-url]
 [![course-immersion-camp][course-cs496]][course-cs496-url]
-![grade-p][grade-p]
+![grade-s][grade-s]
 
 > 로컬 연락처와 사진의 추가, 수정, 삭제, 서버와의 동기화 기능을 제공하고 DB에 저장된 레시피 정보를 가져와 레시피를 이름과 태그로 검색할 수 있는 어플리케이션입니다.
 
@@ -46,5 +46,5 @@
 [library-nodejs]: https://img.shields.io/badge/Library-Node.js-green
 [platform-android]: https://img.shields.io/badge/Platform-Android-yellowgreen
 [database-mongodb]: https://img.shields.io/badge/Database-mongoDB-00cccc
-[grade-p]: https://img.shields.io/badge/Grade-P-yellow
+[grade-s]: https://img.shields.io/badge/Grade-S-yellow
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
